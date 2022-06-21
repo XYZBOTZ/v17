@@ -1,12 +1,12 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* Ramdani Botz
-• *NOMOR BOT :* 6288296339947
-• *NAMA OWNER :* Ramdani Official
-• *NOMOR OWNER :* 6289512545999
-• *LINK :* wa.me/6289512545999
-• *CREATOR :* RAMDANI OFFICIAL
-• *BASE ORI :* RAMDANI OFFICIAL
+• *NAMA BOT :* 𝚇𝚈𝚉-𝙼𝙳
+• *NOMOR BOT :* 6283148340038
+• *NAMA OWNER :* Nopan
+• *NOMOR OWNER :* 6285862754807
+• *LINK :* wa.me/6285862754807
+• *CREATOR :* Nopan
+• *BASE ORI :* Nopan
 • *PREFIX :* MULTI PREFIX
 • *FITUR :* 500+
 • *VERSION :* 17.0.0
